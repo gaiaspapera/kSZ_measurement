@@ -1,0 +1,20 @@
+*.fits
+*.npy
+*.npz
+*.pkl
+*.h5
+*.hdf5
+*.dat
+*.zip
+data/
+results/
+*
+!*/
+
+# keep notebooks
+!*.ipynb
+
+# keep gitignore and readme
+!.gitignore
+!README.md
+
